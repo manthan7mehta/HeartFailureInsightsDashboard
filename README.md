@@ -2,6 +2,8 @@
 
 An interactive Tableau dashboard that provides key insights into heart failure patient data. This project leverages data visualization to help medical professionals and analysts better understand trends, risk factors, and survival rates among patients.
 
+---
+
 ## 📊 Project Overview
 
 The **Heart Failure Insights Dashboard** was created to visualize and analyze clinical data of heart failure patients. With the use of Tableau, the dashboard allows users to:
@@ -43,10 +45,9 @@ The **Heart Failure Insights Dashboard** was created to visualize and analyze cl
 
 The dashboard highlights the correlation between low ejection fraction, high creatinine levels, and increased mortality. It also shows survival trends across age and gender groups.
 
-## 👨‍💻 Author
-
+## 🧑‍💻 Author
 **Manthan Mehta**  
-- [LinkedIn](https://www.linkedin.com/in/manthan7mehta)  
+- [LinkedIn](https://www.linkedin.com/in/manthan-mehta-07mm/)  
 - [GitHub](https://github.com/manthan7mehta)
 
 ## 📝 License
