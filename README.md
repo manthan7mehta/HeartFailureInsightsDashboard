@@ -13,9 +13,13 @@ The **Heart Failure Insights Dashboard** was created to visualize and analyze cl
 - Identify risk indicators via visual trends
 - Support data-driven decisions in healthcare
 
+---
+
 ## 📁 Repository Contents
 
 - `TableauDashboard_HeartFailureInsights.twbx` – The main Tableau dashboard file (packaged workbook)
+ 
+---
 
 ## 🧠 Features
 
@@ -24,11 +28,15 @@ The **Heart Failure Insights Dashboard** was created to visualize and analyze cl
 - Risk factor heatmaps and correlation matrices
 - Interactive filters for dynamic exploration
 
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
 
 - [Tableau Desktop or Tableau Public](https://www.tableau.com/products/desktop/download) (to open `.twbx` files)
+
+---
 
 ### Steps
 
@@ -36,20 +44,32 @@ The **Heart Failure Insights Dashboard** was created to visualize and analyze cl
 2. Open it using Tableau.
 3. Explore the visualizations and interact with filters.
 
+---
+
 ## 📌 Data Source
 
 - Based on a public dataset containing medical records of heart failure patients.
 - Includes features such as age, sex, ejection fraction, creatinine, and mortality outcome.
 
+---
+
 ## 📈 Insights
 
 The dashboard highlights the correlation between low ejection fraction, high creatinine levels, and increased mortality. It also shows survival trends across age and gender groups.
+
+---
 
 ## 🧑‍💻 Author
 **Manthan Mehta**  
 - [LinkedIn](https://www.linkedin.com/in/manthan-mehta-07mm/)  
 - [GitHub](https://github.com/manthan7mehta)
 
+---
+
 ## 📝 License
 
 This project is open-source and available under the MIT License. Feel free to use, modify, and share it.
+
+---
+
+
